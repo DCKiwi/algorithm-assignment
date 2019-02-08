@@ -1,7 +1,4 @@
-# David Cockerill
-# 16163090
-# Assignment 3
-# Problem 3
+
 
 from collections import defaultdict
 
