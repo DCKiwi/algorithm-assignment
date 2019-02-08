@@ -1,7 +1,4 @@
-# David Cockerill
-# 16163090
-# Assignment 3
-# Problem 2
+
 
 # initiate and setup variables
 input_file = open("prob2.in")
